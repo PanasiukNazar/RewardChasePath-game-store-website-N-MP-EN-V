@@ -1,38 +1,38 @@
 initStore([
     {
         id: 0,
-        title: 'Чорна ікра від виробника',
+        title: 'Elden Ring (PC)',
         description:
-            'Чорна ікра преміум-класу, натуральна ікра без консервантів, у скляних банках.',
-        price: 799, // Adjusted price
-        discountPrice: 1399, // Adjusted price
+            'Open-world action RPG with stunning visuals and deep lore, available for PC with full controller support.',
+        price: 59.99,
+        discountPrice: 79.99,
         image: 'img/service-1.jpg',
     },
     {
         id: 2,
-        title: 'Свіжа червона ікра',
+        title: 'God of War Ragnarök (PS5)',
         description:
-            'Свіжа червона ікра, без консервантів, від виробника, доставка по Україні.',
-        price: 499, // Adjusted price
-        discountPrice: 999, // Adjusted price
+            'Epic action-adventure game with a gripping story and intense combat, designed for PlayStation 5 consoles.',
+        price: 69.99,
+        discountPrice: 79.99,
         image: 'img/service-2.jpg',
     },
     {
         id: 3,
-        title: 'Ікра преміум-класу',
+        title: 'Forza Horizon 5 (Xbox Series X)',
         description:
-            'Ікра преміум-класу для гурманів, натуральна ікра без консервантів, доставка по Україні.',
-        price: 599, // Adjusted price
-        discountPrice: 1249, // Adjusted price
+            'Open-world racing game featuring dynamic seasons and stunning landscapes, optimized for Xbox Series X.',
+        price: 59.99,
+        discountPrice: 74.99,
         image: 'img/service-3.jpg',
     },
     {
         id: 4,
-        title: 'Подарункові набори з ікрою',
+        title: 'The Witcher 3: Wild Hunt (PC)',
         description:
-            'Подарункові набори з ікрою чорної та червоної ікри, ідеальний подарунок для гурманів.',
-        price: 1199, // Adjusted price
-        discountPrice: 2399, // Adjusted price
+            'Award-winning RPG with immersive story and vast world to explore, available for PC with mod support.',
+        price: 39.99,
+        discountPrice: 59.99,
         image: 'img/service-4.jpg',
     },
 ]);
